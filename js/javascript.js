@@ -1,4 +1,4 @@
-const requestURL = 'rachsg7.github.io/pkmntypechart/js/pkmn.json';
+const requestURL = 'http://rachsg7.github.io/pkmntypechart/js/pkmn.json';
 
 fetch(requestURL)
     .then(function(response) {
